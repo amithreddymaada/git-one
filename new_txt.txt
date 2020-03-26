@@ -1,2 +1,0 @@
-New text appended brother
-Time to look git diff command
