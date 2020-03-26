@@ -1,4 +1,7 @@
 Hello world
+<<<<<<< HEAD
 one more line to staged area
 Second line added once more bro
 One more line added to check git difftool
+=======
+>>>>>>> parent of 52059d9... Deleted new_txt and modified new_text.txt
