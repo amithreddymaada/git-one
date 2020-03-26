@@ -1,3 +1,4 @@
 Hello world
 one more line to staged area
 Second line added once more bro
+One more line added to check git difftool
