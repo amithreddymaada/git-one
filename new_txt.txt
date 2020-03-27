@@ -1,2 +1,3 @@
 New text appended brother
 Time to look git diff command
+Appending new line in  master branch bro
